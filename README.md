@@ -15,7 +15,7 @@ This program implements Merge Sort and Selection Sort algorithms and compares th
 ## Usage
 
 1. Open a terminal and navigate to the program directory.
-2. Run the program: `python sort_comparison.py`
+2. Run the program: `main.py`
 3. The program generates arrays of various sizes and measures the execution time for each algorithm.
 4. The program outputs a graph of the execution times for each sorting algorithm.
 
