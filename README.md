@@ -21,5 +21,6 @@ This program implements Merge Sort and Selection Sort algorithms and compares th
 
 ## Sample Graph
 
-![Alt Text](path/to/myplot.png)
+![myplot](myplot.png)
+
 
